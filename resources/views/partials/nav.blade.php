@@ -3,7 +3,7 @@
     <span class="logo">● Fjord</span>
     <a href="#">Shop</a>
     <div class="nav-item dropdown">
-      <a href="#" id="collectionsDropdown">Collections</a>
+      <a href="#" id="collectionsDropdown">Collections +</a>
       <ul class="dropdown-menu" aria-labelledby="collectionsDropdown">
         <li><a class="dropdown-item" href="#">Dark</a></li>
         <li><a class="dropdown-item" href="#">Modern</a></li>
@@ -11,7 +11,7 @@
       </ul>
     </div>
     <div class="nav-item dropdown">
-  <a href="#" class="nav-link">About</a>
+  <a href="#" class="nav-link">About +</a>
   <ul class="dropdown-menu">
     <li><a class="dropdown-item" href="#">About</a></li>
     <li><a class="dropdown-item" href="#">Contact</a></li>

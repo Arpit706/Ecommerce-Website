@@ -24,14 +24,14 @@
 
     <!-- Hotspots -->
 <div class="hotspot">
-   <svg  style=" border-radius:300px;background-color:white;position: absolute; top: 18%; left: 35%; transform: translate(-50%, -50%);"
+   <svg  style=" border-radius:300px;background-color:white;position: absolute; top: 28%; left:37%; transform: translate(-50%, -50%);"
    width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M12 6.72223V17.2778" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M17.2778 12H6.72223" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M12 21.5C17.2467 21.5 21.5 17.2467 21.5 12C21.5 6.7533 17.2467 2.5 12 2.5C6.7533 2.5 2.5 6.7533 2.5 12C2.5 17.2467 6.7533 21.5 12 21.5Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 
-<svg  style=" border-radius:300px;background-color:white;position: absolute; top: 32%; left: 55%; transform: translate(-50%, -50%);"
+<svg  style=" border-radius:300px;background-color:white;position: absolute; top: 34%; left: 55%; transform: translate(-50%, -50%);"
    width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M12 6.72223V17.2778" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M17.2778 12H6.72223" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
